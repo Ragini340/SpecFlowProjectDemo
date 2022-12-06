@@ -1,0 +1,6 @@
+C:\Users\RRagini\source\repos\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.dll
+C:\Users\RRagini\source\repos\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.pdb
+C:\Users\RRagini\source\repos\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\RRagini\source\repos\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\RRagini\source\repos\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.dll
+C:\Users\RRagini\source\repos\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.pdb
